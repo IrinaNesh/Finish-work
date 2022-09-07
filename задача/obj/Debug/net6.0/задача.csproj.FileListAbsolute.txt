@@ -1,0 +1,15 @@
+C:\Users\Acer\OneDrive\Desktop\Итоги блока\ДЗ\задача\bin\Debug\net6.0\задача.exe
+C:\Users\Acer\OneDrive\Desktop\Итоги блока\ДЗ\задача\bin\Debug\net6.0\задача.deps.json
+C:\Users\Acer\OneDrive\Desktop\Итоги блока\ДЗ\задача\bin\Debug\net6.0\задача.runtimeconfig.json
+C:\Users\Acer\OneDrive\Desktop\Итоги блока\ДЗ\задача\bin\Debug\net6.0\задача.dll
+C:\Users\Acer\OneDrive\Desktop\Итоги блока\ДЗ\задача\bin\Debug\net6.0\задача.pdb
+C:\Users\Acer\OneDrive\Desktop\Итоги блока\ДЗ\задача\obj\Debug\net6.0\задача.csproj.AssemblyReference.cache
+C:\Users\Acer\OneDrive\Desktop\Итоги блока\ДЗ\задача\obj\Debug\net6.0\задача.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\OneDrive\Desktop\Итоги блока\ДЗ\задача\obj\Debug\net6.0\задача.AssemblyInfoInputs.cache
+C:\Users\Acer\OneDrive\Desktop\Итоги блока\ДЗ\задача\obj\Debug\net6.0\задача.AssemblyInfo.cs
+C:\Users\Acer\OneDrive\Desktop\Итоги блока\ДЗ\задача\obj\Debug\net6.0\задача.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Desktop\Итоги блока\ДЗ\задача\obj\Debug\net6.0\задача.dll
+C:\Users\Acer\OneDrive\Desktop\Итоги блока\ДЗ\задача\obj\Debug\net6.0\refint\задача.dll
+C:\Users\Acer\OneDrive\Desktop\Итоги блока\ДЗ\задача\obj\Debug\net6.0\задача.pdb
+C:\Users\Acer\OneDrive\Desktop\Итоги блока\ДЗ\задача\obj\Debug\net6.0\задача.genruntimeconfig.cache
+C:\Users\Acer\OneDrive\Desktop\Итоги блока\ДЗ\задача\obj\Debug\net6.0\ref\задача.dll
